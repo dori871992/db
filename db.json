@@ -1,0 +1,49 @@
+{
+"Users": [
+    {
+      "id": 1,
+      "firstName": "Dorian",
+      "lastName": "Musaj",
+      "username": "dorian1992",
+      "password": "dorian1992",
+      "Active": 1
+    },
+     {
+      "id": 1,
+      "firstName": "Daniel",
+      "lastName": "Craig",
+      "username": "daniel7",
+      "password": "daniel007",
+      "Active": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
